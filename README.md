@@ -1,4 +1,4 @@
-# FUTURE_DS_01 – Business Sales Performance Analytics
+# FUTURE_DS_01 – Sales Performance Analytics
 
 ## 📌 Project Overview
 This project was completed as part of the Future Interns Data Science & Analytics Internship (Task 1). The objective is to analyze business sales data to identify revenue trends, top-selling products, high-value categories, and regional performance using Excel and Power BI.
